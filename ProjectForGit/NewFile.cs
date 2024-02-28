@@ -9,5 +9,6 @@ namespace ProjectForGit
     internal class NewFile
     {
         //subtask25_code
+        //subtask26_code
     }
 }
