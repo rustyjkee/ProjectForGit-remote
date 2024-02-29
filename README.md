@@ -1,2 +1,2 @@
 # ProjectForGit
-my study project
+my GIT study project
